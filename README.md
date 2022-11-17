@@ -3,13 +3,14 @@
 ## Authored By: Pascal Mutulu
 ## Author Contact: pascalmutulu@gmail.com
 
-This document is for Week2 Devops Project
-
-- Repository https://github.com/pmutulu/week3-devops-project
+This document is for Week3 Devops Project
 
 - To access the website online click https://pmutulu.github.io/week3-devops-project/
 
-- This Repository contains the entire code for Week1 Devops Project
+- Repository https://github.com/pmutulu/week3-devops-project
+
+- This Repository contains the entire code for Week3 Devops Project
+
 ## Project Name
 - Delani Studio
 
