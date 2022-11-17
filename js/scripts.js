@@ -55,8 +55,16 @@ window.addEventListener('DOMContentLoaded', event => {
 
 //Portifolio Editor
 $(document).ready(function () {
-    $("button#showContent").click(function () {
-        $("#showParagraph").prepend("<p>Our design practise offers a full range of services including brand strategy, interaction and visual design and user experience testing.</p>");
+    $("button#designContent").click(function () {
         $("#showParagraph").prepend("<p>Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what isneeded.</p>");
+        $("#showParagraph").prepend("<p>Our design practise offers a full range of services including brand strategy, interaction and visual design and user experience testing.</p>");
+    });
+    $("button#devContent").click(function () {
+        $("#showDevParagraph").prepend("<p>They collaborate with your team to write, and improve code on a daily basis,using proven practices such as test-driven development and pair programming.</p>");
+        $("#showDevParagraph").prepend("<p>All engineers are fluent in the latest enterprise, mobile and web development technologies.</p>");
+    });
+    $("button#prodContent").click(function () {
+        $("#showProdParagraph").prepend("<p>This iterative process allows for changes as business requirement evolve.</p>");
+        $("#showProdParagraph").prepend("<p>Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live..</p>");
     });
 });
