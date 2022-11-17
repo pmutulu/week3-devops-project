@@ -52,3 +52,11 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+//Portifolio Editor
+$(document).ready(function () {
+    $("button#showContent").click(function () {
+        $("#showParagraph").prepend("<p>Our design practise offers a full range of services including brand strategy, interaction and visual design and user experience testing.</p>");
+        $("#showParagraph").prepend("<p>Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what isneeded.</p>");
+    });
+});
