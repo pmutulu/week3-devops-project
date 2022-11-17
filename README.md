@@ -5,9 +5,9 @@
 
 This document is for Week2 Devops Project
 
-- Repository https://github.com/pmutulu/week2-devops-project
+- Repository https://github.com/pmutulu/week3-devops-project
 
-- To access the website online click https://pmutulu.github.io/week2-devops-project/
+- To access the website online click https://pmutulu.github.io/week3-devops-project/
 
 - This Repository contains the entire code for Week1 Devops Project
 ## Project Name
